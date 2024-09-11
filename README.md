@@ -4,7 +4,7 @@ Este repositório é destinado ao sistema proposto como trabalho da disciplina.
 
 **Desenvolvedora**
 
-- [Maria Eduarda Hottz](@mehottz)
+- [Maria Eduarda Hottz](https://github.com/mehottz/)
 
 ## Linguagem e Framework 
 
