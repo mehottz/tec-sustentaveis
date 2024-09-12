@@ -1,12 +1,5 @@
 services:
   web:
-    image: nginx:alpine
-    volumes:
-      - ./html:/usr/share/nginx/html
+    image: dudahottz/tecnologias-sustentaveis-html:latest
     ports:
-      - "8081:80"
-    networks:
-      - webnet
-
-networks:
-  webnet:
+      - "8080:80"
